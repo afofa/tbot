@@ -1,0 +1,32 @@
+# byte-compiled / optimized / DLL files
+__pycache__/
+
+# ipynb notebooks
+**/*.ipynb_checkpoints/
+
+# vscode 
+.vscode/
+
+# data folder
+data/
+
+# credentials folder
+creds/
+
+# docs folder
+docs/
+
+# notebooks folder
+notebooks/
+
+# scripts folder
+scripts/
+
+# tests folder
+tests/
+
+# .env file
+my.env
+
+# notes file
+notes.md
